@@ -1,1 +1,4 @@
 # D3-Challenge
+An interactive D3 scatterplot using data based on the 2014 ACS 1-year estimates from U.S. Census Bureau. The current data set includes data on rates of income, obesity, poverty, etc. by state. The final interactive scatterplot is located at: https://bjwlknsn.github.io/D3-Challenge/.
+
+The interactive scatterplot uses the D3.js library to create the scatterplot and make it interactive with the user. The user can click on each variable along the x or y axis to change the variables under comparison. The d3-tips library is also used to add tooltips to each state bubble along with the appropriate metrics.
